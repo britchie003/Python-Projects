@@ -1,3 +1,3 @@
 # Python-Projects
 
-# A collection of my personal projects created in Python
+# A collection of my school homework and projects created in Python
